@@ -1,0 +1,286 @@
+{
+  "main": {
+    "id": "fdd5a5cde9b6a8c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "347b906ab743251b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca1506563702c62b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Попытка 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Попытка 1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "94279b60c48321d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e3a25def32ded55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1dcfbeb7bd7b0214",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "8d3f3e02c21b3420",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "f539151ee91742ca",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 295.1000061035156
+  },
+  "right": {
+    "id": "6c42d88e880f5342",
+    "type": "split",
+    "children": [
+      {
+        "id": "8520bc0b6e842a94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "192bb32c56bc301a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "80dcd5bf062ecf1e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "2a0e77bad0256530",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "6539d22d8eca557f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "4d10c57cd2e4cd59",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Telegram/videos/direct - 20260814191414711.mp4",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          },
+          {
+            "id": "9cae01eddd8dad23",
+            "type": "leaf",
+            "state": {
+              "type": "view-notes-merger",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Notes Merger"
+            }
+          },
+          {
+            "id": "5212aa5f92be1909",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "94dc6a87b5f1f624",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "Telegram/videos/direct - 20260814191414711.mp4"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Сноски"
+            }
+          },
+          {
+            "id": "a13b85188b3148b4",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "horizontal",
+    "width": 339.0999755859375
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "notes-merger:Notes Merger": false,
+      "workspaces:Пространства": false,
+      "random-note:Открыть случайную заметку": false,
+      "zk-prefixer:Создать заметку с уникальным идентификатором": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "ca1506563702c62b",
+  "lastOpenFiles": [
+    "Ежедневные заметки/10-11-26.md",
+    "AI_secure/Попытка 1.md",
+    "AI_secure/xyi.txt",
+    "AI_secure/Текстовый документ.txt",
+    "Без названия/desktop.ini",
+    "AI_secure",
+    "Без названия.md",
+    "Ежедневные заметки/15-10-26.md",
+    "Ежедневные заметки/16-10-26.md",
+    "Ежедневные заметки/07-10-26.md",
+    "Ежедневные заметки/01-10-26.md",
+    "Ежедневные заметки/29-09-26.md",
+    "Ежедневные заметки/14-10-26.md",
+    "Ежедневные заметки/30-09-26.md",
+    "Ежедневные заметки/28-09-26.md",
+    "Ежедневные заметки/25-09-26.md",
+    "Ежедневные заметки/26-09-26.md",
+    "Ежедневные заметки/02-10-26.md",
+    "Ежедневные заметки/24-09-26.md",
+    "Ежедневные заметки/Ежедневные заметки.md",
+    "Ежедневные заметки/19-09-26.md",
+    "Ежедневные заметки/20-09-26.md",
+    "Развлечение/Сериалы.md",
+    "Развлечение/Фильмы.md",
+    "Развлечение/Развлечение.md",
+    "Ежедневные заметки/18-09-26.md",
+    "Ежедневные заметки/2026-09-19.md",
+    "Ежедневные заметки/2026-09-23.md",
+    "Ежедневные заметки/2026-09-24.md",
+    "Ежедневные заметки/2026-08-16.md",
+    "Telegram/audios/Трайбл 2 мин Уфимцева Дарья_cut  (1) - 20260916212105635.mp3",
+    "Telegram/audios/Ориенталь_2мин_Уфимцева_Дарья - 20260916212202128.mp3",
+    "Telegram/audios/desktop.ini",
+    "Telegram/audios",
+    "Telegram/photos/photo_5385250399_3 - 20260913005002299.jpg",
+    "Работа/Заработки.canvas",
+    "Telegram/photos/photo_5385250399_2 - 20260826214940691.jpg",
+    "вложенные файлы/Pasted image 20260908111113.png",
+    "вложенные файлы/Pasted image 20260908111101.png",
+    "вложенные файлы/Тема Тинд.mp3",
+    "Telegram/photos/Билет на Человека-Паука.jpg",
+    "вложенные файлы/Ashenfell — Myrr (www.lightaudio.ru).mp3",
+    "вложенные файлы/Pasted image 20260816185735.png",
+    "Без названия.canvas"
+  ]
+}

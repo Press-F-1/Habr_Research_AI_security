@@ -1,0 +1,33 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1786879786250,
+      "items": [
+        {
+          "type": "folder",
+          "ctime": 1786893538918,
+          "path": "Работа"
+        },
+        {
+          "type": "group",
+          "ctime": 1786879818306,
+          "items": [],
+          "title": "Группа без названия"
+        }
+      ],
+      "title": "Работа"
+    },
+    {
+      "type": "group",
+      "ctime": 1786879792099,
+      "items": [],
+      "title": "Личное"
+    },
+    {
+      "type": "file",
+      "ctime": 1786893577518,
+      "path": "Блокнот.md"
+    }
+  ]
+}
