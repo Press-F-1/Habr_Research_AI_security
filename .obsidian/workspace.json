@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Попытка 1.md",
+                "file": "Структура.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Попытка 1"
+              "title": "Структура"
+            }
+          },
+          {
+            "id": "a8d32c159c1af514",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Структура.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Структура"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Структура.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Структура.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -159,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/videos/direct - 20260814191414711.mp4",
+                "file": "Структура.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -194,14 +211,14 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Telegram/videos/direct - 20260814191414711.mp4"
+                "file": "Структура.md"
               },
               "icon": "lucide-file-signature",
               "title": "Сноски"
             }
           },
           {
-            "id": "a13b85188b3148b4",
+            "id": "160cccd20ef902a8",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
@@ -209,18 +226,26 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "5c6f10a16987c125",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
-    "width": 339.0999755859375
+    "width": 379.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -228,23 +253,28 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "bases:Создать новую базу": false,
-      "notes-merger:Notes Merger": false,
       "workspaces:Пространства": false,
       "random-note:Открыть случайную заметку": false,
       "zk-prefixer:Создать заметку с уникальным идентификатором": false,
+      "notes-merger:Notes Merger": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ca1506563702c62b",
+  "active": "a8d32c159c1af514",
   "lastOpenFiles": [
+    "Foundations/Терминология.md",
+    "Структура.md",
+    "Foundations",
+    "Inbox",
     "Ежедневные заметки/10-11-26.md",
     "AI_secure/Попытка 1.md",
     "AI_secure/xyi.txt",
     "AI_secure/Текстовый документ.txt",
     "Без названия/desktop.ini",
     "AI_secure",
-    "Без названия.md",
     "Ежедневные заметки/15-10-26.md",
     "Ежедневные заметки/16-10-26.md",
     "Ежедневные заметки/07-10-26.md",
@@ -267,7 +297,6 @@
     "Ежедневные заметки/2026-09-19.md",
     "Ежедневные заметки/2026-09-23.md",
     "Ежедневные заметки/2026-09-24.md",
-    "Ежедневные заметки/2026-08-16.md",
     "Telegram/audios/Трайбл 2 мин Уфимцева Дарья_cut  (1) - 20260916212105635.mp3",
     "Telegram/audios/Ориенталь_2мин_Уфимцева_Дарья - 20260916212202128.mp3",
     "Telegram/audios/desktop.ini",
@@ -277,9 +306,7 @@
     "Telegram/photos/photo_5385250399_2 - 20260826214940691.jpg",
     "вложенные файлы/Pasted image 20260908111113.png",
     "вложенные файлы/Pasted image 20260908111101.png",
-    "вложенные файлы/Тема Тинд.mp3",
     "Telegram/photos/Билет на Человека-Паука.jpg",
-    "вложенные файлы/Ashenfell — Myrr (www.lightaudio.ru).mp3",
     "вложенные файлы/Pasted image 20260816185735.png",
     "Без названия.canvas"
   ]
