@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Структура"
             }
+          },
+          {
+            "id": "6729a1c83316845a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Тест.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Тест"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Структура.md",
+                "file": "Inbox/Тест.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +256,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -263,10 +278,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a8d32c159c1af514",
+  "active": "6729a1c83316845a",
   "lastOpenFiles": [
-    "Foundations/Терминология.md",
     "Структура.md",
+    "Inbox/Тест.md",
+    "Foundations/Терминология.md",
     "Foundations",
     "Inbox",
     "Ежедневные заметки/10-11-26.md",
@@ -296,7 +312,6 @@
     "Ежедневные заметки/18-09-26.md",
     "Ежедневные заметки/2026-09-19.md",
     "Ежедневные заметки/2026-09-23.md",
-    "Ежедневные заметки/2026-09-24.md",
     "Telegram/audios/Трайбл 2 мин Уфимцева Дарья_cut  (1) - 20260916212105635.mp3",
     "Telegram/audios/Ориенталь_2мин_Уфимцева_Дарья - 20260916212202128.mp3",
     "Telegram/audios/desktop.ini",
